@@ -11,7 +11,7 @@ Solutions are organized by topic:
 
 | # | Topic | Easy | Medium | Hard | Total |
 |---|-------|------|--------|------|-------|
-| 01 | [Arrays & Hashing](./01-arrays-and-hashing/) | 0 | 0 | 0 | 0 |
+| 01 | [Arrays & Hashing](./01-arrays-and-hashing/) | 1 | 0 | 0 | 1 |
 | 02 | [Two Pointers](./02-two-pointers/) | 0 | 0 | 0 | 0 |
 | 03 | [Sliding Window](./03-sliding-window/) | 0 | 0 | 0 | 0 |
 | 04 | [Stack](./04-stack/) | 0 | 0 | 0 | 0 |
@@ -38,8 +38,8 @@ Solve **300+ problems** and build strong DSA fundamentals for SDE internship int
 
 ## 📈 Progress
 
-- **Total Solved**: 0 / 300
-- **Current Streak**: 0 days
+- **Total Solved**: 1 / 300
+- **Current Streak**: 1 day
 - **Start Date**: June 2026
 
 ## 📁 Solution Format
