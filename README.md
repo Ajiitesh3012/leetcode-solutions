@@ -56,4 +56,4 @@ Each solution file follows this format:
 
 ---
 
-*Made with 💻 and ☕ by Ajitesh Meena*
+
