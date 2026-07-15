@@ -11,10 +11,10 @@ Solutions are organized by topic:
 
 | # | Topic | Easy | Medium | Hard | Total |
 |---|-------|------|--------|------|-------|
-| 01 | [Arrays & Hashing](./01-arrays-and-hashing/) | 5 | 2 | 0 | 7 |
-| 02 | [Two Pointers](./02-two-pointers/) | 1 | 1 | 0 | 2 |
-| 03 | [Sliding Window](./03-sliding-window/) | 0 | 0 | 0 | 0 |
-| 04 | [Stack](./04-stack/) | 0 | 0 | 0 | 0 |
+| 01 | [Arrays & Hashing](./01-arrays-and-hashing/) | 6 | 4 | 0 | 10 |
+| 02 | [Two Pointers](./02-two-pointers/) | 1 | 3 | 0 | 4 |
+| 03 | [Sliding Window](./03-sliding-window/) | 1 | 1 | 0 | 2 |
+| 04 | [Stack](./04-stack/) | 1 | 1 | 0 | 2 |
 | 05 | [Binary Search](./05-binary-search/) | 0 | 0 | 0 | 0 |
 | 06 | [Linked List](./06-linked-list/) | 0 | 0 | 0 | 0 |
 | 07 | [Trees](./07-trees/) | 0 | 0 | 0 | 0 |
@@ -23,9 +23,9 @@ Solutions are organized by topic:
 | 10 | [Backtracking](./10-backtracking/) | 0 | 0 | 0 | 0 |
 | 11 | [Graphs](./11-graphs/) | 0 | 0 | 0 | 0 |
 | 12 | [Dynamic Programming](./12-dynamic-programming/) | 0 | 0 | 0 | 0 |
-| 13 | [Greedy](./13-greedy/) | 0 | 0 | 0 | 0 |
+| 13 | [Greedy](./13-greedy/) | 0 | 1 | 0 | 1 |
 | 14 | [Intervals](./14-intervals/) | 0 | 0 | 0 | 0 |
-| 15 | [Math & Geometry](./15-math-and-geometry/) | 3 | 1 | 0 | 4 |
+| 15 | [Math & Geometry](./15-math-and-geometry/) | 4 | 1 | 0 | 5 |
 | 16 | [Bit Manipulation](./16-bit-manipulation/) | 0 | 0 | 0 | 0 |
 
 ## 🛠️ Language
@@ -38,7 +38,7 @@ Solve **300+ problems** and build strong DSA fundamentals for SDE internship int
 
 ## 📈 Progress
 
-- **Total Solved**: 13 / 300
+- **Total Solved**: 24 / 300
 - **Current Streak**: 1 day
 - **Start Date**: June 2026
 
